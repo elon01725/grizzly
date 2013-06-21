@@ -6,3 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+log "Shello Worldz!  Chef be rockin!"
